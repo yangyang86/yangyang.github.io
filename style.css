@@ -1,0 +1,96 @@
+body {
+  background: #DEDEDE;
+  font-family: arial;
+}
+
+.hero-banner-container {
+  background: url("http://www.budapest.com/w/promoart/promo_999_en.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  color: orange;
+  font-family: 'Cardo', serif;
+  position: relative;
+  top: 375px;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #FFF;
+  font-size: 50px;
+  letter-spacing: 4px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 17px;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container p {
+  color: #36454f;
+  font-size: 14px;
+  text-align: center;
+}
+
+.card-container {
+  background: #FFF;
+  border: 1px solid #F5F5F5;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 50px;
+  min-height: 410px;
+  padding: 30px;
+  position: relative;
+  top: 50px;
+  vertical-align: top;
+}
+
+.card-container-2 {
+  background: #FFF;
+  border: 1px solid #F5F5F5;
+  border-radius: 5px;
+  line-height: 30px;
+  margin-bottom: 50px;
+  min-height: 410px;
+  padding: 30px;
+  position: relative;
+  top: 50px;
+}
+
+img {
+  height: 270px;
+  border: 5px solid #FFF;
+  border-radius: 150px;
+  display: block;
+  margin: 0 auto;
+  width: 270px;
+}
+
+.card-container .quote {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+
+.card-container .quote-person {
+  font-size: 20px;
+}
+
+.hobby {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
